@@ -1,0 +1,14 @@
+/* =================================
+   Custom Responsive Styles
+================================== */
+/* Small Mobile Devices ( < 768px ) Style Begin */
+@media (min-width: 0px) and (max-width: 767px) {}
+/* Small Mobile Devices ( < 768px ) Style End */
+@media all and (max-width:767px) and (min-width: 480px) {}
+/* Small devices (tablets, 768px and up)  Style Begin */
+@media (min-width: 768px) and (max-width: 991px) {}
+/* Small devices (tablets, 768px and up)  Style End */
+/* Medium devices (desktops, 992px and up) Styles Begin */
+@media (min-width: 992px) and (max-width: 1199px) {}
+/* Medium devices (desktops, 992px and up) Styles End */
+@media (min-width: 1200px) and (max-width: 1300px) {}
